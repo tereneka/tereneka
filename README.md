@@ -24,7 +24,8 @@
 <img src="https://img.shields.io/badge/-Firebase-ffa50f?style=flat-square&logo=firebase&logoColor=white" alt="Firebase" height="25px">
 <img alt="postman" src="https://img.shields.io/badge/-Postman-ff6c37?style=flat-square&logo=postman&logoColor=white" height="25px">
 <img src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" alt="git" height="25px">
-  <img src="https://img.shields.io/badge/Ant--Design-0081CB?style=for-the-badge&logo=Ant-Design&logoColor=white" alt="Ant Desing" height="25px">
+<img src="https://img.shields.io/badge/Ant--Design-0081CB?style=for-the-badge&logo=Ant-Design&logoColor=white" alt="Ant Desing" height="25px">
+<img src="https://img.shields.io/badge/-Sass-cf649a?style=flat-square&logo=sass&logoColor=white" alt="Sass" height="25px">
 </p>
 <br />
 
